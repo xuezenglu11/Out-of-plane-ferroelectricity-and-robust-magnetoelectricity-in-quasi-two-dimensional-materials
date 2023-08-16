@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_KMn2Ag2Cl7
+_symmetry_space_group_name_H-M   Pc
+_cell_length_a   23.07960998
+_cell_length_b   6.84667595
+_cell_length_c   7.02339721
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.23661618
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   7
+_chemical_formula_structural   KMn2Ag2Cl7
+_chemical_formula_sum   'K4 Mn8 Ag8 Cl28'
+_cell_volume   1109.56898489
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.49741842  0.26891433  0.41502027  1
+  K  K1  2  0.99991964  0.23142106  0.07768887  1
+  Mn  Mn2  2  0.11091214  0.25222208  0.52014384  1
+  Mn  Mn3  2  0.39278239  0.25136690  0.96700872  1
+  Mn  Mn4  2  0.60884398  0.24537589  0.98974898  1
+  Mn  Mn5  2  0.89387741  0.24896660  0.50993473  1
+  Ag  Ag6  2  0.19175989  0.20309834  0.01155222  1
+  Ag  Ag7  2  0.28192195  0.27499947  0.31447445  1
+  Ag  Ag8  2  0.68725566  0.28980094  0.55782339  1
+  Ag  Ag9  2  0.79446885  0.20147110  0.12288319  1
+  Cl  Cl10  2  0.00376187  0.32777364  0.50519781  1
+  Cl  Cl11  2  0.09265999  0.05851087  0.82290645  1
+  Cl  Cl12  2  0.12916334  0.43259613  0.20784722  1
+  Cl  Cl13  2  0.21431027  0.15623653  0.56187715  1
+  Cl  Cl14  2  0.28906370  0.36901577  0.95794482  1
+  Cl  Cl15  2  0.37344373  0.05783784  0.27293946  1
+  Cl  Cl16  2  0.41400293  0.45647083  0.68377418  1
+  Cl  Cl17  2  0.50193595  0.16644748  0.98925105  1
+  Cl  Cl18  2  0.58717717  0.44841938  0.68688416  1
+  Cl  Cl19  2  0.63013921  0.07083728  0.30700566  1
+  Cl  Cl20  2  0.71091289  0.35332646  0.93929513  1
+  Cl  Cl21  2  0.78919150  0.14770285  0.49592430  1
+  Cl  Cl22  2  0.87801091  0.43883337  0.19627461  1
+  Cl  Cl23  2  0.91444495  0.04668858  0.79962471  1

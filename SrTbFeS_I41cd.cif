@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_SrTb2Fe2S7
+_symmetry_space_group_name_H-M   I4_1cd
+_cell_length_a   9.43669142
+_cell_length_b   9.43669142
+_cell_length_c   44.80205072
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   110
+_chemical_formula_structural   SrTb2Fe2S7
+_chemical_formula_sum   'Sr16 Tb32 Fe32 S112'
+_cell_volume   3989.67391571
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  '-x, y, z+1/2'
+  6  'y, x+1/2, z+3/4'
+  7  'x+1/2, -y+1/2, z'
+  8  '-y+1/2, -x, z+1/4'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-y+1/2, x, z+3/4'
+  11  '-x, -y, z'
+  12  'y, -x+1/2, z+1/4'
+  13  '-x+1/2, y+1/2, z'
+  14  'y+1/2, x, z+1/4'
+  15  'x, -y, z+1/2'
+  16  '-y, -x+1/2, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  16  0.05526670  0.25652788  0.74998415  1
+  Tb  Tb1  16  0.00529224  0.29061694  0.16100146  1
+  Tb  Tb2  16  0.00567221  0.29066259  0.33896787  1
+  Fe  Fe3  16  0.00552933  0.26371225  0.55202106  1
+  Fe  Fe4  16  0.00553172  0.73629520  0.94799042  1
+  S  S5  16  0.00546808  0.18561722  0.60583670  1
+  S  S6  16  0.00556884  0.81426574  0.89417607  1
+  S  S7  16  0.03132655  0.31476875  0.50000067  1
+  S  S8  16  0.24259726  0.24430466  0.80569918  1
+  S  S9  16  0.24265647  0.24431724  0.69429194  1
+  S  S10  8  0.00000000  0.00000000  0.04215525  1
+  S  S11  8  0.00000000  0.00000000  0.17922393  1
+  S  S12  8  0.00000000  0.00000000  0.32078640  1
+  S  S13  8  0.00000000  0.00000000  0.45781537  1

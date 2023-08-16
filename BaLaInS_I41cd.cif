@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_BaLa2In2S7
+_symmetry_space_group_name_H-M   I4_1cd
+_cell_length_a   10.05416818
+_cell_length_b   10.05416818
+_cell_length_c   47.74812648
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   110
+_chemical_formula_structural   BaLa2In2S7
+_chemical_formula_sum   'Ba16 La32 In32 S112'
+_cell_volume   4826.68133541
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  '-x, y, z+1/2'
+  6  'y, x+1/2, z+3/4'
+  7  'x+1/2, -y+1/2, z'
+  8  '-y+1/2, -x, z+1/4'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-y+1/2, x, z+3/4'
+  11  '-x, -y, z'
+  12  'y, -x+1/2, z+1/4'
+  13  '-x+1/2, y+1/2, z'
+  14  'y+1/2, x, z+1/4'
+  15  'x, -y, z+1/2'
+  16  '-y, -x+1/2, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  16  0.05968887  0.26049335  0.24998133  1
+  La  La1  16  0.00773392  0.29088466  0.65983887  1
+  La  La2  16  0.00835625  0.29089293  0.84010969  1
+  In  In3  16  0.00439470  0.26551117  0.94817610  1
+  In  In4  16  0.00439579  0.26547011  0.05184836  1
+  S  S5  16  0.00684425  0.18288038  0.10578667  1
+  S  S6  16  0.00695186  0.18306389  0.89423882  1
+  S  S7  16  0.03819413  0.32094173  0.00001102  1
+  S  S8  16  0.23908739  0.24533074  0.30718334  1
+  S  S9  16  0.23918453  0.24529480  0.19280784  1
+  S  S10  8  0.00000000  0.00000000  0.04286122  1
+  S  S11  8  0.00000000  0.00000000  0.17692089  1
+  S  S12  8  0.00000000  0.00000000  0.32310145  1
+  S  S13  8  0.00000000  0.00000000  0.45710218  1
